@@ -8,7 +8,7 @@ predicts the speed of a vehicle in the next time step based on:
 
 Then it colors the streets according to the predicted speed in the next time step
 
-**code is private**
+**code is private For code access or questions, please contact me at: tst1880@googlemail.com**
 
 <br>
 <br>
