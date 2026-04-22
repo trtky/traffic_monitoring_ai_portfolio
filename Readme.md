@@ -8,7 +8,7 @@ predicts the speed of a vehicle in the next time step based on:
 
 Then it colors the streets according to the predicted speed in the next time step
 
-**code is private For code access or questions, please contact me**
+**code is private. For code access or questions, please contact me**
 
 <br>
 <br>
@@ -114,11 +114,11 @@ F --> G[save every frame in the frames folder]
 <br>
 <br>
 
-## Results
+# Results
 
 - below is the result, the frames are converted to a gif
 
-### Legend
+## Legend
 - red: Neural Network predicts mean speeds below 10 km/h for the lane 
 - yellow: Neural Network predicts mean speeds between 10 km/h and 20 km/h for the lane 
 - green: Neural Network predicts mean speeds above 30 km/h for the lane 
