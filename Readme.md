@@ -1,4 +1,4 @@
-# Traffic Monitoring AI
+# 🚗🖥️ Traffic Monitoring AI
 
 This project loads a Sumo traffic simulation network and then trains a neural network that
 predicts the speed of a vehicle in the next time step based on:
@@ -8,24 +8,33 @@ predicts the speed of a vehicle in the next time step based on:
 
 Then it colors the streets according to the predicted speed in the next time step
 
-**code is private For code access or questions, please contact me at: tst1880@googlemail.com**
+**code is private For code access or questions, please contact me**
 
 <br>
 <br>
 <br>
 
-## Libraries used 
+# ❗Project Significance
+
+The goal is to explore whether simple ML models can anticipate short‑term traffic dynamics and support congestion analysis
+
+This has significant potential for future data‑driven traffic management 
+
+<br>
+<br>
+<br>
+
+# Programs used
+- Python
+
+## Libraries 
 - traci
 - numpy 
 - pandas
 - scikit-learn
 - matplotlib
 
-## Use Case
-
-The goal is to explore whether simple ML models can anticipate short‑term traffic dynamics and support congestion analysis
-
-This has significant potential for future data‑driven traffic management systems 
+systems 
 
 <br>
 <br>
